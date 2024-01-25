@@ -1,1 +1,2 @@
+This file is edited in the feature branch
 edited in the master branch
